@@ -1,4 +1,4 @@
-Amazon web Clone Website
+Amazon web Clone Website:
 This is my **first project** in my programming journey, where I built a simple clone of the Amazon website using **HTML** and **CSS**.
 The purpose of this project was to practice my front-end development skills by replicating the layout and design of a popular e-commerce site.
 
